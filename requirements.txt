@@ -1,0 +1,5 @@
+click
+configobj
+gmusicapi
+texttable
+spotipy
